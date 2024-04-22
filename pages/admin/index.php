@@ -87,7 +87,7 @@ if (isset($_GET['id'])) {
             margin: 0;
             padding: 0;
             font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
+            background-color: #C2C2C2;
         }
         .container-fluid {
             padding-left: 0;
@@ -167,7 +167,7 @@ if (isset($_GET['id'])) {
             border-color: #bd2130;
         }
         .mb-4 {
-    background-color: orangered;
+    background-color: #343a40;
     color: #fff;
     padding: 10px;
 }
